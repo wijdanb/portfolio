@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="16" viewBox="0 0 140 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 15px;
+        font-family: Bahnschrift;
+      }
+    </style>
+  </defs>
+  <text id="Front-End_Developer" data-name="Front-End Developer" class="cls-1" transform="translate(70 12)"><tspan x="-69.763" y="0">Front-End Developer</tspan></text>
+</svg>

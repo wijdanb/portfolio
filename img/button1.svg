@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="73.537" viewBox="0 0 240 73.537">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2699fb;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 20px;
+        font-family: GillSansMT, Gill Sans MT;
+      }
+    </style>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-840 -326)">
+    <g id="Group_3" data-name="Group 3">
+      <rect id="Rectangle_451" data-name="Rectangle 451" class="cls-1" width="240" height="54" rx="5" transform="translate(840 326)"/>
+    </g>
+    <text id="VIEW_PORTFOLIO" data-name="VIEW PORTFOLIO" class="cls-2" transform="translate(879.5 360)"><tspan x="0" y="0">VIEW PORTFOLIO</tspan></text>
+    <g id="Down_arrow_small" data-name="Down arrow small" transform="translate(268.995 -312.853)">
+      <path id="Path_36" data-name="Path 36" class="cls-1" d="M10.005,12.39,2,4.385,4.385,2l5.621,5.621L15.626,2,18.01,4.385Z" transform="translate(681 700)"/>
+    </g>
+  </g>
+</svg>
