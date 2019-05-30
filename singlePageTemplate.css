@@ -1,5 +1,11 @@
 @charset "UTF-8";
 
+@-ms-viewport{
+  width: device-width;
+}
+
+ 
+
 html{
 	scroll-behavior: smooth;
 
@@ -138,8 +144,7 @@ header {
  
 	 
 		height: auto;
-		 
-		/* padding-right: 9rem; */
+ 
 		max-width: 400px;
 		max-height: 400px;
 
@@ -200,7 +205,32 @@ header {
  
 	object-fit: contain;
 	cursor: pointer; 
-  }
+	}
+	.underline{
+		color: #1507df;
+		cursor: pointer;
+		text-decoration: underline;
+
+	}
+	
+	.port_link{
+		color: #1507df;
+		cursor: pointer;
+		text-decoration: underline;
+
+ 
+		text-transform: uppercase;
+		color: rgba(9, 30, 219, 0.88);
+		text-decoration: underline;
+	 }
+
+ 
+	
+	.port_link:hover{
+		color: rgba(9, 30, 219, 0.88);
+		text-decoration: underline;
+	}
+	
 
  
   
@@ -279,7 +309,6 @@ header {
 		  background-color: #131313; }
 	  
  
-
  
  
 nav {
@@ -622,8 +651,8 @@ footer .footer_column p {
 .cards {
 	width: 100%;
 	height: auto;
-	max-width: 400px;
-	max-height: 200px;
+	max-width: 403px;
+	max-height: 266px;
 }
 footer .footer_column p {
 	padding-left: 30px;
@@ -1217,6 +1246,9 @@ nav ul li {
 		width: 30%;
 	 
 	}
+	.parallax_descriptionLeft{
+		font-size: 12px;
+	}
 	
 }
 
@@ -1276,6 +1308,10 @@ nav ul li {
 		padding-bottom:15px;
 	 
 	
+	}
+
+	.parallax_descriptionLeft{
+		font-size: 12px;
 	}
 
 }
@@ -1341,7 +1377,9 @@ nav ul li {
 	
 
 	}
-	
+	.parallax_descriptionLeft{
+		font-size: 12px;
+	}
 	
 }
 
@@ -1400,6 +1438,9 @@ nav ul li {
 		padding-bottom:25px;
 	 
 	
+	}
+	.parallax_descriptionLeft{
+		font-size: 12px;
 	}
 
 	
